@@ -5,7 +5,8 @@ public class Demo {
 		// TODO Auto-generated method stub
 		System.out.println("nothing is here");
 		System.out.println("cross check");
-		
+		System.out.println("nothing is here");
+		System.out.println("cross check");
 		
 
 	}
