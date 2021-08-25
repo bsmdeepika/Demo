@@ -7,6 +7,8 @@ public class Demo {
 		System.out.println("cross check");
 		System.out.println("nothing is here");
 		System.out.println("cross check");
+		Integer a=10;
+		System.out.println(a);
 		
 
 	}
